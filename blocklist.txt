@@ -1,7 +1,3 @@
-0.0.0.0 content.exoticads.com
-0.0.0.0 cdn.exoticads.com
-0.0.0.0 adserver.exoticads.com
-0.0.0.0 adservice.google.com
 0.0.0.0 clients1.google.com
 0.0.0.0 clients.l.google.com
 0.0.0.0 googleadapis.l.google.com
@@ -322,3 +318,8 @@
 0.0.0.0 static.doubleclick.net
 0.0.0.0 fwmrm.net
 0.0.0.0 2975c.v.fwmrm.net
+0.0.0.0 https://cdn.exoticads.com/xads.js
+0.0.0.0 content.exoticads.com
+0.0.0.0 cdn.exoticads.com
+0.0.0.0 adserver.exoticads.com
+0.0.0.0 adservice.google.com
